@@ -1,0 +1,5 @@
+C:/Users/HP/CLionProjects/testqt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/CLionProjects/testqt/cmake-build-debug/CMakeFiles/testqt.dir
+C:/Users/HP/CLionProjects/testqt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/HP/CLionProjects/testqt/cmake-build-debug/CMakeFiles/testqt_autogen_timestamp_deps.dir
+C:/Users/HP/CLionProjects/testqt/cmake-build-debug/CMakeFiles/testqt_autogen.dir
